@@ -3,11 +3,7 @@ package com.andrealves.webservice.resource;
 import java.net.URI;
 import java.util.List;
 
-import javax.sql.rowset.serial.SerialArray;
-import javax.xml.ws.Response;
-
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
